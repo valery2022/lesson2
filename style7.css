@@ -1,0 +1,16 @@
+td {
+  border: solid 1px gray;
+}
+
+table {
+  margin: 0 auto;
+  text-align: center;
+  border: 4px solid rgba(0, 162, 255, 0.849);
+  border-spacing: 30px 20px;
+  height: 200px;
+}
+body {
+  color: rgb(106, 4, 146);
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
